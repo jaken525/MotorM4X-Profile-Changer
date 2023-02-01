@@ -3,4 +3,8 @@ The utility allows you to create a large number of profiles for the game MotorM4
 
 # Installation
 Place the exe file in the save folder.
+
 The folder with the saves is located in the documents folder.
+
+# Requirements
+to work with the project, you will need the boost 1.79.0 library
